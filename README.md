@@ -1,4 +1,4 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3915ed,100:210d82&text=&section=header&reversal=false&textBg=false&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=-9'>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3915ed,100:210d82&text=Wellcome,%20i'm%20Üs&section=header&textBg=false&fontColor=ffffff&fontAlignY=30&animation=twinkling&strokeWidth=2&stroke=5938ff&desc=Front-End%20Developer&descSize=15&descAlignY=50">
 
 ## 👋 Olá!! I'm Üs
 
