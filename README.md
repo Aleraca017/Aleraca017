@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3915ed,100:210d82&text=Wellcome,%20i'm%20Üs&section=header&textBg=false&fontColor=ffffff&fontAlignY=30&animation=twinkling&strokeWidth=2&stroke=5938ff&desc=Front-End%20Developer&descSize=15&descAlignY=50">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3915ed,100:210d82&text=Wellcome,%20i'm%20Üs&section=header&textBg=false&fontColor=ffffff&fontAlignY=30&animation=twinkling&strokeWidth=0&desc=Front-End%20Web%20Developer&descSize=15&descAlignY=50">
 
-## 👋 Olá!! I'm Üs
+## Alexandre Miranda
 
 Desenvolvedor Full Stack (Front-End Predominante) apaixonado por tecnologia, performance e boas práticas. Tenho experiência com desenvolvimento de aplicações web, integração com Firebase e foco em soluções práticas para negócios reais. 🚀
 
