@@ -33,7 +33,7 @@ Atualmente lidero projetos na [017Tag](https://github.com/seu-usuario-aqui) e na
 
 ### ✉️ Contato
 
-- 📫 Email: [alexandremir017@icloud.com] (mailto:alexandremir017@icloud.com)
+- 📫 Email: alexandremir017@icloud.com
 - 📱 Instagram: [@017_us](https://instagram.com/017_us)
 
 
