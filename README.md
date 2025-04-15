@@ -33,9 +33,8 @@ Atualmente lidero projetos na [017Tag](https://github.com/seu-usuario-aqui) e na
 
 ### ✉️ Contato
 
-- 📫 Email: seuemail@email.com  
-- 💼 Portfólio: [017Tag](https://www.017tag.com.br)  
-- 📱 Instagram: [@alexandre.dev](https://instagram.com/alexandre.dev)
+- 📫 Email: alexandremir017@icloud.com
+- 📱 Instagram: [@017_us](https://instagram.com/017_us)
 
 
 
