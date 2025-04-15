@@ -4,7 +4,7 @@
 
 Desenvolvedor Full Stack (Front-End Predominante) apaixonado por tecnologia, performance e boas práticas. Tenho experiência com desenvolvimento de aplicações web, integração com Firebase e foco em soluções práticas para negócios reais. 🚀
 
-Atualmente lidero projetos na [017Tag](https://github.com/aleraca017) e na TechFin Solutions, onde crio soluções personalizadas para controle de estoque, vendas e gestão financeira com foco em pequenas e médias empresas.
+Atualmente lidero projetos na [017Tag](https://github.com/aleraca017), onde crio soluções personalizadas para controle de estoque, vendas e gestão financeira com foco em pequenas e médias empresas.
 
 ---
 
