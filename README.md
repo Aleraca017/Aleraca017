@@ -26,8 +26,8 @@ Atualmente lidero projetos na [017Tag](https://github.com/seu-usuario-aqui) e na
 
 ### 📊 Estatísticas GitHub
 
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandremiranda&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandremiranda&layout=compact&theme=radical)
+![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleraca017&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleraca017&layout=compact&theme=radical)
 
 ---
 
