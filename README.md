@@ -47,4 +47,4 @@ Atualmente lidero projetos na [017Tag](https://github.com/aleraca017), onde crio
 
 
 
-<img src='https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3915ed,100:210d82&text=&section=footer&reversal=false&textBg=false&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=-9'>
+<img src='https://capsule-render.vercel.app/api?type=waving&height=100&color=0:3915ed,100:210d82&text=&section=footer&reversal=false&textBg=false&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=-9'>
