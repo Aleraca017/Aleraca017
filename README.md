@@ -32,7 +32,7 @@ Atualmente lidero projetos na [017Tag](https://github.com/aleraca017), onde crio
 
 ### ✉️ Contato
 
-- 📫 Email: alexandremir017@icloud.com
+- 📫 Email: alexandremir017@gmail.com
 - 📱 Instagram: [@017_us](https://instagram.com/017_us)
 
 
