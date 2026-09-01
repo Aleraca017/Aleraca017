@@ -2,7 +2,7 @@
 
 ## Alexandre Miranda
 
-Desenvolvedor Full Stack (Front-End Predominante) apaixonado por tecnologia, performance e boas práticas. Tenho experiência com desenvolvimento de aplicações web, integração com Firebase e foco em soluções práticas para negócios reais. 🚀
+Desenvolvedor Full Stack (Front-End Predominante) com formação em Sistemas de Informação (SI) e Análise e Desenvolvimento de Sistemas (ADS). Sou apaixonado por tecnologia, performance e boas práticas, com experiência em aplicações web, integração com Firebase e foco em soluções práticas para negócios reais. 🚀
 
 Atualmente lidero projetos na [017Tag](https://github.com/aleraca017), onde crio soluções personalizadas para controle de estoque, vendas e gestão financeira com foco em pequenas e médias empresas.
 
@@ -28,10 +28,10 @@ Atualmente lidero projetos na [017Tag](https://github.com/aleraca017), onde crio
 
 ### 📊 Estatísticas GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aleraca017&show_icons=true&theme=radical" alt="Üs's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleraca017&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+<div align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Aleraca017&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Üs's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleraca017&layout=compact&langs_count=7&theme=radical" alt="Top Langs" />
+</div>
 
 ---
 
