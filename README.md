@@ -28,8 +28,8 @@ Atualmente lidero projetos na [017Tag](https://github.com/aleraca017), onde crio
 
 ### 📊 Estatísticas GitHub
 
-[![Üs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleraca017&show_icons=true&theme=radical)](https://github.com/Aleraca017)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleraca017&layout=compact&theme=radical)](https://github.com/Aleraca017)
+[![Üs's GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=Aleraca017&show_icons=true&theme=radical)](https://github.com/Aleraca017)
+[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Aleraca017&layout=compact&theme=radical)](https://github.com/Aleraca017)
 
 ---
 
