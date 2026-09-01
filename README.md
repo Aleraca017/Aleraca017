@@ -28,10 +28,18 @@ Atualmente lidero projetos na [017Tag](https://github.com/aleraca017), onde crio
 
 ### 📊 Estatísticas GitHub
 
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Aleraca017&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Üs's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleraca017&layout=compact&langs_count=7&theme=radical" alt="Top Langs" />
-</div>
+[![Üs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleraca017&show_icons=true&theme=radical)](https://github.com/Aleraca017)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleraca017&layout=compact&theme=radical)](https://github.com/Aleraca017)
+
+---
+
+### 🐍 Minhas Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aleraca017/Aleraca017/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aleraca017/Aleraca017/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Aleraca017/Aleraca017/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
